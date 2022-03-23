@@ -1,7 +1,5 @@
 import { screen } from '@testing-library/react';
-// import userEvent from '@testing-library/user-event';
 import React from 'react';
-// import App from '../App';
 import { About } from '../components';
 import renderWithRouter from '../renderWithRouter';
 
